@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NIqm79kSs9HyTuf2b6OUM7llscX6IMYYkc/rjvKsEwQ=",
+  "Source": "ProductSalesStatisticsAPI",
+  "BasePath": "_content/ProductSalesStatisticsAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

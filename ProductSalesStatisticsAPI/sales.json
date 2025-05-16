@@ -1,0 +1,22 @@
+[
+  {
+    "ProductName": "Laptop",
+    "Quantity": 2,
+    "UnitPrice": 1200.50
+  },
+  {
+    "ProductName": "Mouse",
+    "Quantity": 5,
+    "UnitPrice": 25.00
+  },
+  {
+    "ProductName": "Monitor",
+    "Quantity": 1,
+    "UnitPrice": 300.00
+  },
+  {
+    "ProductName": "Laptop",
+    "Quantity": 1,
+    "UnitPrice": 1200.50
+  }
+]
